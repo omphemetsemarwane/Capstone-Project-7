@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.8" sourcefiles="src/NewProjects.java,src/PoisedCheck.java,src/PersonDetails.java,src/PoisedMenu.java,src/ExistingProjects.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="https://docs.oracle.com/en/java/javase/16/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
