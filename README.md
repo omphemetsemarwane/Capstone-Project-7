@@ -1,5 +1,5 @@
 # Capstone-Project-7
-# Complete Poised Firm Project Part 3
+# Poised Firm: Debugging, Software Testing, Refactoring, Software Documentation, Java Collections Framework
 # Project Information
 # Description
 
